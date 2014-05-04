@@ -1,15 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://cpopsunday.github.io/blog/2014/05/03/first-edition-of-c-pop-sunday/</loc>
+        <lastmod>2014-05-04T00:06:29-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://cpopsunday.github.io/robots.txt</loc>
         <lastmod>2014-05-03T19:17:55-05:00</lastmod>
     </url>
     <url>
         <loc>http://cpopsunday.github.io/blog/archives/</loc>
-        <lastmod>2014-05-03T19:17:55-05:00</lastmod>
+        <lastmod>2014-05-04T00:06:29-05:00</lastmod>
     </url>
     <url>
         <loc>http://cpopsunday.github.io/</loc>
-        <lastmod>2014-05-03T19:17:55-05:00</lastmod>
+        <lastmod>2014-05-04T00:06:29-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://cpopsunday.github.io/about/</loc>
+        <lastmod>2014-05-03T22:00:41-05:00</lastmod>
     </url>
 </urlset>
